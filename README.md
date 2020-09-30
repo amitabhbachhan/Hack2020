@@ -21,3 +21,5 @@ vim  /etc/sysconfig/shellinaboxd
    19  rpm -ivf https://fedora.pkgs.org/30/fedora-x86_64/compat-openssl10-1.0.2o-5.fc30.x86_64.rpm.html                                              
    20  rpm -ivf http://download-ib01.fedoraproject.org/pub/fedora/linux/releases/30/Everything/x86_64/os/Packages/c/compat-openssl10-1.0.2o-5.fc30.x8
 6_64.rpm                     
+
+## Javrvis Code also added.
